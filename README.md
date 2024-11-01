@@ -4,11 +4,6 @@ markdown
 
 Welcome to the React Geo Analysis App! 🌍 This application visualizes geographical data and provides insightful analysis reports, helping users interact with maps and explore results based on different countries.
 
-## Project Structure
-
-Here's a quick overview of the project structure:
-
-├── package.json ├── package-lock.json ├── public │ ├── favicon.ico │ ├── index.html │ ├── logo192.png │ ├── logo512.png │ ├── manifest.json │ └── robots.txt ├── README.md └── src ├── App.js ├── components │ ├── AnalyseReport.js │ ├── AnalysisResult.js │ ├── DynamicForm.js │ ├── Header.js │ ├── MapContainer.js │ ├── Notification.js │ ├── SiteDrawer.js │ └── WorldMap.js ├── countries.geojson ├── CountriesSvg │ └── Germany.svg ├── index.js ├── siteData.js └── theme.js
 
 bash
 
@@ -19,7 +14,7 @@ To get started with the project, follow these simple steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   https://github.com/ardamiine/World-Map-React/
    cd repository-name
 
     Install Dependencies: Run the following command to install all necessary dependencies:
