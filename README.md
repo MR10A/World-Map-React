@@ -14,7 +14,7 @@ To get started with the project, follow these simple steps:
 
 1. **Clone the Repository**:
    ```bash
-   https://github.com/ardamiine/World-Map-React/
+   https://github.com/ardamiine/React-Geo-Analysis-App
    cd repository-name
 
     Install Dependencies: Run the following command to install all necessary dependencies:
