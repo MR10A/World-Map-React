@@ -1,4 +1,3 @@
-markdown
 
 # React Geo Analysis App
 
